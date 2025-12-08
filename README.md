@@ -1,6 +1,6 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Dimitri&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-# 💻 Dimitri | Full-Stack Developer
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Backend+%7C+Frontend+%7C+DevOps;C%2B%2B+%7C+PHP+%7C+JavaScript;Building+scalable+solutions;Always+learning+new+tech" alt="Typing SVG" />
 
@@ -16,11 +16,11 @@
 ```javascript
 const dimitri = {
     role: "Full-Stack Developer",
-    location: "Germany 🇩🇪",
+    location: "Netherlands 🇳🇱",
     languages: ["C++", "PHP", "JavaScript", "Python", "TypeScript", "Java"],
     currentFocus: ["Backend Architecture", "Performance Optimization", "Clean Code"],
     communities: ["downed.biz"],
-    funFact: "I debug with console.log and I'm not ashamed"
+    motto: "Success is the best revenge"
 };
 ```
 
@@ -70,12 +70,16 @@ const dimitri = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haftentzug&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haftentzug&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Haftentzug&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Haftentzug&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haftentzug&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Haftentzug&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haftentzug&theme=radical" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -105,7 +109,13 @@ const dimitri = {
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Haftentzug-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Haftentzug)
+<a href="https://discord.com/users/387359755569463296">
+  <img src="https://lanyard.cnrad.dev/api/387359755569463296?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Counting%20money..." alt="Discord Haftentzug" width="400px"/>
+</a>
+<a href="https://discord.com/users/1163441218110378004">
+  <img src="https://lanyard.cnrad.dev/api/1163441218110378004?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Chilling..." alt="Discord o27" width="400px"/>
+</a>
+
 [![Telegram](https://img.shields.io/badge/Telegram-@knickstick-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/knickstick)
 
 </div>
@@ -120,8 +130,8 @@ const dimitri = {
 
 ---
 
-**✨ Thanks for stopping by! ✨**
+**[ Made with 💻 and 🚬 ]**
 
-![](https://hit.yhype.me/github/profile?user_id=Haftentzug)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
